@@ -1,0 +1,7 @@
+h1 { text-transform: uppercase;
+    text-align: center;}
+body {background-color: bisque;}
+.imagen{
+    width: 350px;
+    height: 250px;
+}
